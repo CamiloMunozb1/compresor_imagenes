@@ -5,21 +5,24 @@ Este es un pequeño script de automatización que permite convertir imágenes a 
 ## Características
 
 ✔ Convierte imágenes a JPEG en formato RGB.
+
 ✔ Comprime las imágenes reduciendo su calidad (60% por defecto).
+
 ✔ Captura errores para evitar interrupciones inesperadas.
+
 ✔ No usa interfaces gráficas, ya que es un script de automatización.
 
 ## Requisitos
 
 Asegúrate de tener instalada la librería Pillow antes de ejecutar el script. Puedes instalarla con:
 
-  pip install pillow
+    pip install pillow
   
 ## Uso
 
 Ejecuta el script en la terminal o línea de comandos y sigue las instrucciones:
 
-  python compresor.py
+    python compresor.py
   
 Al ejecutarlo, te pedirá ingresar la ruta de la imagen. Luego, guardará una nueva imagen comprimida en el mismo directorio con el nombre nueva_imagen.jpg.
 
