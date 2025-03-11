@@ -34,4 +34,5 @@ Este script está pensado para automatización, por lo que no incluye una interf
 
 
  Autor: Juan camilo Muñoz Bautista
+ 
  Última actualización: 10/03/25
